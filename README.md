@@ -7,3 +7,5 @@
  - [ ] Basic Editing
  - [ ] Search and replace
  - [ ] Customization and extending editor
+ - [ ] Windows Support
+ - [ ] Spliting Buffers
